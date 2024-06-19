@@ -1,0 +1,1 @@
+Backend template for Telegram Mini App with authorization
